@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Baggage Fee Calculator</string>
+
+    <!-- CHANGE THESE to your own details -->
+    <string name="share_url">https://github.com/snbal2026/ExcessBaggageFee</string>
+    <string name="about_details">Name: SITI NURUL BALQIS BINTI MOHD.KHAIRULFITRI\n
+        Student No: 2024440182\n
+        Group: RCDCS2405A\n
+        Programme Code: CS240</string>
+
+    <string name="about_desc">This app estimates the excess baggage fee for air travel. Economy class allows 20 kg and business class allows 40 kg. An 8% service tax is added to the charge.</string>
+    <string name="about_copyright">© 2026 Siti Nurul Balqis. All rights reserved.</string>
+</resources>

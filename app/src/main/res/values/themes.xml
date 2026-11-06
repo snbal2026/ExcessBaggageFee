@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.BaggageFee" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/lilac_primary</item>
+        <item name="colorPrimaryVariant">@color/lilac_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/lilac_primary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/lilac_dark</item>
+    </style>
+</resources>
